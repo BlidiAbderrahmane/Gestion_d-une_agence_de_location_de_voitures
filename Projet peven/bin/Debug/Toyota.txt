@@ -1,0 +1,5 @@
+Yaris/40
+Yaris Sedan/40
+Avanza/45
+Corolla/55
+C-HR/55
